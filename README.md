@@ -10,7 +10,6 @@
   <h3>Back Tech Stack</h3>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   
   <h3>DataBase Tech Stack</h3>
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
@@ -27,7 +26,7 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
   <br><br>
   
-  ![dawonLeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudgus197493&show_icons=true&theme=cobalt)
+  ![dawonLeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawonLeeee&show_icons=true&theme=cobalt)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudgus197493&layout=compact&theme=gruvbox)
   
